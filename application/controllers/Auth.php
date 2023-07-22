@@ -141,7 +141,7 @@ class Auth extends CI_Controller
             'protocol'  => 'smtp',
             'smtp_host' => 'smtp.gmail.com',
             'smtp_user' => 'no.reply.dopnetindo@gmail.com',
-            'smtp_pass' => 'ksfrrxhfamivwvaw',
+            'smtp_pass' => 'gmail key',
             'smtp_port' => 465,
             'smtp_crypto' => 'ssl',
             'mailtype'  => 'html',
